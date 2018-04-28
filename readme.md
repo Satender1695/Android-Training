@@ -1,6 +1,6 @@
 
 
-# [Course Structure](http://git.finoit.com/Android/Android-Training/wikis/home)
+# [Course Structure](https://github.com/Satender1695/Android-Training/wiki)
 
 
-## [Click here to proceed](http://git.finoit.com/Android/Android-Training/wikis/home)
+## [Click here to proceed](https://github.com/Satender1695/Android-Training/wiki)
